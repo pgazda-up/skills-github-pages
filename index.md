@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome - testing github pages
 ---
 
+## Welcome
+This is just for testing.
